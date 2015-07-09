@@ -21,4 +21,6 @@ group :production do
 end
 
 group :doc do
-gem 'tzinfo-data', platforms: [:mingw, :mswin]
+	gem 'tzinfo-data', platforms: [:mingw, :mswin]
+end
+
